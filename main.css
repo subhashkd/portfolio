@@ -11,22 +11,5 @@ html::-webkit-scrollbar {
 html {
     -ms-overflow-style: none;
     scrollbar-width: none;
-}
-
-body {
-    color: #222;
-    background-color: rgb(184, 184, 184);
-    text-align: center;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-}
-
-img {
-    height: 90%;
-}
-
-div {
-    height: 100vh;
+    font-family: sans-serif;
 }
