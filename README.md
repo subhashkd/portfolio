@@ -3,5 +3,4 @@
 # portfolio
     Here Is A List Of Designs I Have Managed To Create Throughout My Career Of Graphic Design
 
-### Ad Designs
-    ![Ad Designs](https://github.com/subhashkd/portfolio/blob/main/assets/ad/Graphics-designing-final-01.jpg)
+### Ad Designs    
